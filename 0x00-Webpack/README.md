@@ -7,6 +7,15 @@
 ## Installation
 * webpack
 * jQuery
+```bash
+foo@pop-os:~$ curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+foo@pop-os:~$ sudo bash nodesource_setup.sh
+foo@pop-os:~$ sudo apt install nodejs -y
+
+foo@pop-os:~$ nodejs -v
+v12.22.1
+foo@pop-os:~$ npm -v
+6.14.12
 
 ## Tasks
 0. Basic setup
