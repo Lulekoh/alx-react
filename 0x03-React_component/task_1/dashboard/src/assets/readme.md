@@ -1,0 +1,2 @@
+favicon icon
+holberton logo
