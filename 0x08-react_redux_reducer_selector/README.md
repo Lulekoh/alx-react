@@ -1,1 +1,1 @@
-## 0x07-react_redux_action_creator_normalizr
+## 0x08-react_redux_reducer_selector
